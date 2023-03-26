@@ -72,12 +72,12 @@ Entramos, saludamos a la gente y todo poco a poco perecías más fácil.
 
 Y tan fácil que a pesar de perder el primer partido contra `Aes` y `Alicia` les pudimos ganar en la final. 
 
-![BeerPong1](img\beer-pong-1.jpg)
+![BeerPong1](.\img\beer-pong-1.jpg)
 
-![BeerPong1](img\beer-pong-2.jpg)
+![BeerPong2](.\img\beer-pong-2.jpg)
 
 ### El tiro de la victoria
-![BeerPong](img\beer-pong.jpg)
+![BeerPong3](.\img\beer-pong.jpg)
 
 
 
@@ -96,7 +96,7 @@ Antes de que te fueras me empeñé en comer en `Abloc` y claro.. allí que fuimo
 
 Nos separamos un momento, tu llevabas la maleta pesada y no nos salía retable comprar el billete en ese moemnto. Quedaste esperando al bus con todas tus pertenencias y más tardé me curcé contigo. Arrastrabas la maleta hacía el metro y en ese momento se me hizo más real que nunca que te marchabas. 
 
-![Marions](https://lh3.googleusercontent.com/GA7llU0c8TBOVDM5EUsz2Wfg1QHH_OjQHCbhptXEHFcYrSwGW2g2h-PTvQaLPNchnp-_uP_duiYYKWSjewkuTUk68ek0eIkjGkDWr-7iyJwPXC5wY0EU1gEKZhLaYMUTeqUNa6av-_lIMDDLvabqstY00Ar-kJqlBmxNrEX4R5O2UMSxNZ06QyBBfipQQJzpxHC2SxVuBDOWQNLY6OJuLJqNv-BovMQ_XK9zvmwHo3hkvouFBfBR30Ukj1ZWGXeVbFnlck6qR9S5rqwVaXLm1UtTXdqG4pKh7jk413x_j3AdCgZCRB9NcUSrXlcGTTHn0nvuVT86OhDmkIA6ithELwWkoTpxOIE4wpTQCpoFfLoTEia0HIT241Zj1NvG4BpMiMMc7Kt4cDAHzrV_gzh_zrXfxbl3E1fH4ksuK_Hm0FKnvRFzg_-7Gn129EBxOPi8bVVD9UuNUiYl80SpdOKwXW9LCQbt_MEGPMi9lBDai0vOI5XJc4b6dxqQJgX__bqO7moGYou-hDmiezs4rZ6S9IxE7FPxHS2zEMvg6mXcJfYPddjV7ZQsedjxjGx59YoYwbMYdBORQJY9kApmvd-t6ZJDDyiqxYWMTrYBhYVQ0sWY3hmeAZJBHp3F_XwVY8z7pQddFwzufPpNHpdaBEhQR7iQjJLJVCPrp18G4UyXoH_TVvTbmcM4cY304Ku_X1QqC5EZXnKQIF0pgNu16e-IgZ495-LbinUHyJSSqzvmWhMS26unjr9jV4LxRKo-SOnfB9qGf7eaplTAjlFf4B0DDsiub2FqsN-HDgKLlfpCN4yoFVGX-hC2UwVjoYiURujKJUxGsZIt6QmHWrhI4bIMqz8nLOAPM7rz_5YDV9Ef4ptRYItpZZVAanXGjMlE3T2lsRlMU9I0QNl1mWLepbC5dopktrRhGw61iWp6Ap-qaX2UDOvbHqB3Q4fNLx8cCm39Eg709VwdD5kBlxT4lprswZ_EJZ_r36jZX1v84aYISeScnprb-FV2OOE=w668-h890-no?authuser=0)
+![Marions se va](https://lh3.googleusercontent.com/GA7llU0c8TBOVDM5EUsz2Wfg1QHH_OjQHCbhptXEHFcYrSwGW2g2h-PTvQaLPNchnp-_uP_duiYYKWSjewkuTUk68ek0eIkjGkDWr-7iyJwPXC5wY0EU1gEKZhLaYMUTeqUNa6av-_lIMDDLvabqstY00Ar-kJqlBmxNrEX4R5O2UMSxNZ06QyBBfipQQJzpxHC2SxVuBDOWQNLY6OJuLJqNv-BovMQ_XK9zvmwHo3hkvouFBfBR30Ukj1ZWGXeVbFnlck6qR9S5rqwVaXLm1UtTXdqG4pKh7jk413x_j3AdCgZCRB9NcUSrXlcGTTHn0nvuVT86OhDmkIA6ithELwWkoTpxOIE4wpTQCpoFfLoTEia0HIT241Zj1NvG4BpMiMMc7Kt4cDAHzrV_gzh_zrXfxbl3E1fH4ksuK_Hm0FKnvRFzg_-7Gn129EBxOPi8bVVD9UuNUiYl80SpdOKwXW9LCQbt_MEGPMi9lBDai0vOI5XJc4b6dxqQJgX__bqO7moGYou-hDmiezs4rZ6S9IxE7FPxHS2zEMvg6mXcJfYPddjV7ZQsedjxjGx59YoYwbMYdBORQJY9kApmvd-t6ZJDDyiqxYWMTrYBhYVQ0sWY3hmeAZJBHp3F_XwVY8z7pQddFwzufPpNHpdaBEhQR7iQjJLJVCPrp18G4UyXoH_TVvTbmcM4cY304Ku_X1QqC5EZXnKQIF0pgNu16e-IgZ495-LbinUHyJSSqzvmWhMS26unjr9jV4LxRKo-SOnfB9qGf7eaplTAjlFf4B0DDsiub2FqsN-HDgKLlfpCN4yoFVGX-hC2UwVjoYiURujKJUxGsZIt6QmHWrhI4bIMqz8nLOAPM7rz_5YDV9Ef4ptRYItpZZVAanXGjMlE3T2lsRlMU9I0QNl1mWLepbC5dopktrRhGw61iWp6Ap-qaX2UDOvbHqB3Q4fNLx8cCm39Eg709VwdD5kBlxT4lprswZ_EJZ_r36jZX1v84aYISeScnprb-FV2OOE=w668-h890-no?authuser=0)
 
 Llegamos a la cantina vimos en la puerta a algunos de mis amigos, les despedimos y entramos a comer. Una vez entramos tuviste un momento a solas con `Samuel` que venía con el pelo despeinado y alguna mancha de `ketchup` en la cara. Te girabas buscándome, llegué por tu espalda, le saludamos, pasamos el momento incómodo desde el humor de la situción y finalmente buscamos un sitio para tener nuestra última comida. El `eslovaco` mientras tanto se iba en busca de lo que a él le daba el gusto por vivir, *aquellos pequeños momentos que nos rodean*. 
 
