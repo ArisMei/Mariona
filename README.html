@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>README.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<blockquote>
+<p><em>Carta para Mariona Riera Fernandez 26.03.2023</em></p>
+</blockquote>
+<h3 id="esta-eres-tu-antes-de-llegar">Esta eres tu antes de llegar</h3>
+<p><img src="img\de-camino.jpeg" alt="Marions de Camino"></p>
+<p>Marions, pasaste aquí conmigo unos $25$ días. Han sido preciosos. Desde tu partida he ido tristemente olvidando lo que significó para mi comprartir contigo esa aventura. Las preocupaciones las dudas me han ido alejando de apreciar aquello que es lo que quiero, a ti!</p>
+<p>Por eso me he puesto a escribir estas líneas, para recordar, tener guardado y hacerte llegar los momentos bonitos, preciosos, entrañables y únicos que hemos vivido juntos.</p>
+<hr>
+<h2 id="14022023">14.02.2023</h2>
+<p>Llegaste un <em>14.02.2023</em>. Día de <em>San Valentin</em>. Nunca nos ha importado especialmente este día, aunque de alguna forma a mi me ha hecho siempre pararme a pensar y a preciar lo que significas para mí.</p>
+<p>Te esperé en el <strong>Aereopuerto de Vaanta</strong> con alguna hora de antelación. Tu vuelo se había restrasado y al final llegabas a las $18:00$ aprximadamente. Me dio tiempo a poder ir a comprar unas flores, un reno finlandés al <code>Clash Olson</code> y la compra de los días siguientes en el <code>Lidl</code>. Como no, había unos <code>noodles</code> esperándote esa noche. De <code>salmón</code>! Eso sí, estaba ahumado y lleno de sal así que tampoco supo especialemnte bien. Antes de cenar hicimos una <code>sauna</code> y pasamos la noche juntos curando un poco las heridas que se hacían algo más grandes los primeros días de tu llegada.</p>
+<hr>
+<h2 id="15022023">15.02.2023</h2>
+<p>El fatídico día de <code>Helvar</code> vendría al siguiente días de que llegaras. Tuve yo la genial idea de hacer una dinámica de grupo en una empresa de luces inteligentes que semanas antes nos había propuesto a los estudiantes de la asignatura de <code>Inteligent Buildings</code> participar en un vídeo promocional a cambio de unos <code>vouchers</code>.</p>
+<p><img src="https://lh3.googleusercontent.com/qnMWfG2iQ0YduXj2LpRjTBpLqiPL81e1dXlXwOIf34XE3l8f1EuDLAB1y6JJMbE5nP42mfVWr75Pe17YWKYseHAFohNMOogwHvzus9-aKZP1yPuf_oNwo9FvO-VauzugFB56fzcOL1mH98NHeEDdBYjEOfVz9bJ7e1SxMgxpTnp3-rmSD41zLfcR43QK9YjXXNbnC5IXb6sbiRLUH4E6ioq4t3ZzFp6c-yOG_gVi3mlNNjUBUdWE1HPadf3vv0lydK2gRGTaw5unCs1sV8dNA2S2ukGeXI8yywok_xbRZnvvZ7XsOFJrLaKo0VLhAmNJNopRAgyn7uFkd45BioHNjvgCOcJ1HwUkmK1o_z7ERCI2LKELRT3pzbkeQPAFGI5Fy0bwzxoBqun1h6C_XH91Ip4RDx1noqqZn5yEDxK3saYyueTrg5HhbNiVFfquUmZnKNepcEIQAa401hq9alN7or477prpe6dSDyV91dFQNTYaNzl3N5xN5PkC5QfaZTJYP8IdPqUjeBmikC2mVzZSr2QAkJbkZbGB9ovA2gnaLF04y_Ul_MuRb6SGbRI_Rrfgoq1jMR8eErpS2iBldsaCTmqsWzGduSHSkCRCScFGKfOXj0hI_73npWpXenXFFj6N3mKywLBLFVeVv7RT5_QU5NSjqJu39N8aVnKlGbfe-TsligI7kLFzj-RilOdQYgk6U2g4adp4fNgzIp5PJKgkqs5uBKScSGInOMuU_ZjjDNQSzorZVuD6XKk7p4Z4ebuU8uTgY5VwdIn30BIkAR6ekGn84hBKwAClCFqyRfLNh_NZcK7OxOCI0FZIpkm8mzMQ0bGkEXEO3d3b40smOkKrM5TxHGbflAuuoK7mR7eGUldzir6v_BeCOq2nE8_2Wnnc7Bo1kKfaEzDsLsvaPE-cpBlDr6cHw2Tip7G9uQ63165NV-3fGi0939_wVqW2-AeCcf7Ib8EXGcblSTu9MMDRB4GFOdOa494wK9nJ530WxX3tg0BoWtLyxZM=w1126-h473-no?authuser=0" alt="Helvar"></p>
+<p>Fue una experiencia complicada podríamos decir, y tampoco ayudó mucho ya que veníamos algo tocados de la distancia. Las tareas que nos mandaron eran algo más difíciles de lo esperado y las direcciones en inglés no eran muy claras la mayoría de veces. Esto unido a mi cabezonería de que <em>&quot;es de mala ecucación hablar español cuando hay gente de otros países&quot;</em> hizo de ti este día <code>insufrible</code>.</p>
+<p>Fuiste la útlima en hacerlo después de durante varios momentos haberte reservado las ganas de <code>llorar</code>. Yo te intentaba buscar la mirada pero no estabas para muchas tonterías que digamos. Finalmente saliste y lo hiciste bastante bien a pesar e que lo tuviste que repetir una vez más. Yo te expliqué mas o menos como era pero entre los nervios y la situación no funcionamos bien.</p>
+<p>Tomamos unas pizzas todos juntos que al parecer te gustarion mucho y a la salida <code>Piños</code> nos idicicó el camino correcto de manera un poco dudosa.</p>
+<p>Ahora es dónde empezaba el dialógo entre nosotros y el compartir lo que había pasado de manera un poco más intima:</p>
+<p><em>-</em> <em>&quot;Aris no me hables que todavía tengo que procesar lo que acaba de pasar&quot;</em></p>
+<p><em>-</em> <em>&quot;Sabes lo que nos han dado.. creo que son chuches? Venga Marions si no ha sido nada...&quot;</em></p>
+<p><em>-</em> <em>&quot;Me da igual Aris lo que nos han dado ya puedes ir tirándolo a la basura. Cómo me haces venir aquí??&quot;</em></p>
+<p><em>-</em> <em>&quot;Ostras Marions yo no sabía que iba a ser tan jodido...&quot;</em></p>
+<p>Después de estar discutiendo de camino a <code>JMT 11</code> y andar bajo el frío llegamos a casa y de forma algo egoista me fui al gimnasio a ejercitar un poco la pierna.</p>
+<p>Llegué mas tarde ,discutimos un poco más, nos sinceramos y nos acabamos riendo un poco del día que acababa de suceder.</p>
+<hr>
+<h2 id="16022023">16.02.2023</h2>
+<p>No recuerdo mucho este día, simplemte lo pasamos juntos comimos en alguna cantina del campus, disfrutamos el sabor del café y me hiciste compañía mientras preparaba mi presentanción del <code>TFM</code>.</p>
+<p>Quizás lo pasamos en las <code>burbujas</code> de la biblioteca mientras te mirabas una serie ..  o quizás me había encabezonado con la ventana de la biblioteca y te estarías viendo la película de <code>Los renclones torcidos de Dios</code> en algún sofá verde y yo me azercaba cada $20$ minutos para ver como iba la trama...</p>
+<p>Por la tarde fuimos a disfrutar de nuestras entradas de <code>cine</code> y <code>palomitas</code>.</p>
+<p><img src="img\titanic.jpeg" alt="Titanic Entradas"></p>
+<p>Nunca sabremos Marions cómo sabrá aquella <code>pizza</code> que nunca pedimos. Eso sí nuetro dolor de tripa empezo a cocinarse en estas escapadas al <code>Finniko</code> y el exceso de chuches y la ingesta de paloitas algo crudas.</p>
+<p>Después de disfrutar la peli la noche estaba clara. Tu venías con la sangre <code>mediterránea</code> corriendo todavía por tus venas y querías tomarte una <code>cerve</code>. Fue la primera y la última que tomamos en el <code>Old Irish</code>. Tu sangre mediterranea se fue congelando al mismo ritmo que la mía.</p>
+<p>Una vez que llegamos al bar nos asomamos a nuestra mesa para ver dónde estaba grabado el $22$ nos tomamos unas cervezas y disfrutamos de la noche juntos.</p>
+<p><img src="https://lh3.googleusercontent.com/_AsKY5ZS8aCZfoYAQzQaWU974VDElxCl7_GTQExUtXdDBMLg_DJeXSpzRDOy2eq5kc0zJkVR8DeuquFi-1dyb4bRI1f404IVta4SyM5rvsiCaX3shgeEOR25oWGyafb8YXhurgbrbTvykiTMkoKDo89oKJOj6jNmcmxU9mCLzysqV8u5bGw_GjqK9LiEDNKZjEuLk0NIjnYDeNURMYdvKmmAWA9-zGclPKrJaosaUkhs6pDBHQKbAceMWmUeCnF7FwTZjEqYIjUuQCFStQ0UJL-aDq6P-OEGzeZZ9XyUA5LroGoiziCDa58PIlCAztI87TMy-QhAIFz4MMgbWdzgNp98riFOgFqpovphyO-2L7KQhyET3ocwePrd6hm8dg8ZMW02H1o8RLu7RzpsnpuXKiD9TgwcSThtwaL1sEUiaWyM2TugATCkgRnp5FKkfJi4aAu9JJnhKu_wGj3540WFOKoQBF1gJUO2OEzEQSrtenCdQS_ZPujuz_e8lQxCxvlfuBxy2HbHsS3a1RIz_yjixgLOJi7HE3NIP_A4lndBver9PtMq8x5x69KzODBg5NDe3_M_zGmpJU2Bgj9GTAooFmrgJcnLCKcXlDKTuq_vPN2gCEsdosW6NUsHaw6oFfg0PdLj2_-jhPkUTwDIOYTjc8ECAXEAZRv_WCbINMr-XzSTUhsGjlj5RXw7ISOWhyx5jfChCkgW9ux5PzZWDwool7ttc1G_AANcPETvgFBFo5z5RhMkhKMeXPjGG9IpnxOQOWsy4V52nbCt_Yt96P8SkENWU4Gfv8NJoBfJf8nQAyZoQbqNe9OrxtektTrdizNctP5aqS3HjmeoaUW-MkTX0OxJW6DNx81L5iYsccQd16ZjNrnCr_mEZUJag80j33PuKB8lyru_mzx_1l7DWVnYwS8RCBTaGOsL7agajAGvOnRrhwhtyZSKXXU3ZYp7AXI9U6GwfBoIcau5oZwIjfso41ep6uJAeagMmC-qfk8-iPPp5uKP8mkX5w=w959-h720-no?authuser=0" alt="Old Irish"></p>
+<hr>
+<h2 id="17022023">17.02.2023</h2>
+<p>El día $17$ tocaba explicarle a los <code>erasmus</code> <strong>quién</strong> era <em>Mariona Riera</em>. Teníamos el <code>evento</code> del <code>beer-pong</code> por la noche. Te pareció curioso que se jugase con agua, después de que pasaran los días y ver el precio de las cervezas te fue pareciendo poco a poco algo más normal.</p>
+<p>Llegamos a la puerta y después de que vieras el panorama te <code>asustaste</code> y decidiste volver. Veníamos un poco tocados después de lo de <code>Helvar</code> y claro a saber dónde te metía Aris esta vez.</p>
+<p>Tuviste la mala suerte o bueno.. buena suerte, de que alguién te saludó por la ventana. Me miraste y me disjte:</p>
+<p><em>-</em> <em>&quot;Aris ya me han visto, vamos a entrar... madre mía dónde me estoy metiendo&quot;</em></p>
+<p>Entramos, saludamos a la gente y todo poco a poco perecías más fácil.</p>
+<p>Y tan fácil que a pesar de perder el primer partido contra <code>Aes</code> y <code>Alicia</code> les pudimos ganar en la final.</p>
+<p><img src=".\img\beer-pong-1.jpg" alt="BeerPong1"></p>
+<p><img src=".\img\beer-pong-2.jpg" alt="BeerPong2"></p>
+<h3 id="el-tiro-de-la-victoria">El tiro de la victoria</h3>
+<p><img src=".\img\beer-pong.jpg" alt="BeerPong3"></p>
+<p>De camino a casa por alguna razón que hoy no recuerdo uno de los $2$ <code>trofeos</code> terminó en la <code>basura</code>. El otro hoy está en mi apartamento junto a una de las <code>botellas</code> que nos regalaron los de Helvar.</p>
+<p><img src="img\copa-botella.jpeg" alt="Copa Botella"></p>
+<hr>
+<h2 id="18022023">18.02.2023</h2>
+<h2 id="20022023">20.02.2023</h2>
+<h2 id="nikolai">Nikolai</h2>
+<h2 id="notion-stockholm">Notion Stockholm</h2>
+<h2 id="22022023">22.02.2023</h2>
+<h3 id="alien-sitsit">Alien Sitsit</h3>
+<h2 id="23022023">23.02.2023</h2>
+<h3 id="unisport">Unisport</h3>
+<h2 id="24022023">24.02.2023</h2>
+<h3 id="finniko-whitney">Finniko Whitney</h3>
+<h2 id="27022023">27.02.2023</h2>
+<h2 id="rex">REX</h2>
+<h2 id="02032023">02.03.2023</h2>
+<h2 id="emtrevists-phalo">Emtrevists Phalo</h2>
+<hr>
+<h2 id="03032023">03.03.2023</h2>
+<p>Que suerte que el día antes de que te marcharas pudiérmos ir al <code>Kiasma</code> y al <code>Museo Nacional</code>. Son dos exposiciones de Helsinki que disfruto un montón y el primer viernes de cada mes las dos son gratuitas.</p>
+<p>Por la mañana me dediqué a finiquitar algunos detalles de mi <code>TFM</code> mientras tu a mi espalda recogías tus cosas y me dejabas una nota escrita.</p>
+<p><img src=".\img\nota-Marions.jpeg" alt="nota Marions"></p>
+<p>Llegamos al <code>Museo Nacional</code> e intenté enseñarte la historia de <em>Santa Barbára</em> mientras apartábamos a una madre y su hijo del <code>retablo</code>. Mas o menos adivinaste la historia pero mi insistencia hacía de la situación algo incómodo.</p>
+<p><img src="https://lh3.googleusercontent.com/Ge3NHrW1kerKSR-1QzmBEl_5IvX1IV-s0D2PwRqzPSEBh_Sqzwo4mYgeb4EM62K8Vl0y8SinF8r1E5MvIR15hg4d8F5431HfIkhjzohJ6TKcSu5DbqlmrrYNoXyRaL7sj_CWfJgiIXVoZPfY-w_8kVb5J244nLPMB2v4l0iKZt6cFVHeQXLIBtq8d_cbb4FP6SdWBQ4VAL8Vzw09ckLS2TXtNaQKS2b5fWRznMDIktRjOGjU2DJsT7nuEiVKScWz7n06wqBPzBeR0ktz7SvUABT0VdJOT6Qnlc-xMazay9I5LLt655nUbyf5hRWoiAbNxYRwARAM4OHrvGYkvLarBuT9Hj4tXPy8gzC8qoyeNjhVp42_-XH3CTEI9eP_9FllJiK0UUbGzEaUUNvPGWubQk1MLkqx7vKMfqliax9eOdhjdkhqym-MBPWOpGTMQU8Ihc9vNq5HEpw-DQ7dtw9V40FqJBTkPVDmGnFqDHZCmu98xVIccNGIt6Sn_G2qV7BkcTif382A5MOtjrIjyNWeWoVYWceGjauAitui_HFocvBZz1Qwn5sShtafdEYHz4-Wcj-tuyblT8wNZH5DO0Mzt49w40vVcgQyte5Fdxu14Mb0CP4-I-anqUvCDIo_p2JIL_gT7BXpj-CB7D-f-0lrMrQKEqX-FPgJLU6G4jJQAgGuYPvn4KHyBVGDAhO8l0mTkBYQkDAkACo4JDHOP5uEiUASomxTvAXYnM_l0kNr5V2-jgMZjJ7vuvuUkdrzl4BweTIy3lgb4UQEvpDcaCuc3XeKlkB2V93f7yNPMI9mekVBEUL5SFkbgzg_IY9jop8_JSLGGSlgvjazhPJTNP4gohXiFNMKLzm3TozL1d4g1RH1CGdlp2Z2IRId8I_Gl4gzAdDO-_IkvZMYbLap-QpVcRVma-Ne-6EIVVHca86ofao4tBCmz3KkYVMvnNca2AM1w_dN7_CCbxHfdcB-XOE9-uvKTUUGKP9dXv24fpZQM_JkVKaD9yMtC4c=w668-h890-no?authuser=0" alt="Museo Nacional"></p>
+<p>Mi impaciencia absurda nos hizo que llegáramos al segundo museo casi una hora antes. Estuvo bien pues pedimos sitio en el <code>free tour</code> y nos fuimos al piso de arriba a tumbarnos en los <code>cojines</code> mientras contemplábamos como se apagaba poco a poco la capital del <code>frío</code>.</p>
+<p>No solo era tu <code>primer día</code> en el museo sino también el de la chica que nos enseñaba el lugar.</p>
+<p>Nos mostró y explico varias obras con voz algo <code>temblorosa</code>. Al marcharnos nos la encontramos en las escaleras y al despedirla pudimos notar en su mirada cierto gesto de <code>preocupación</code>.</p>
+<p>Una de las obras que más me llamó la atención a parte de verte a ti paseando por el museo, fue el <code>zológico</code> que se mostraba en una de las salas. Entre una biblia y el <code>coran</code> había dispuesto un sinfín de animales. Antes de que llegaras tenía la idea de pasar juntos un día en el zoo, finalmente lo vislumbramos dentro ed una obra de arte.</p>
+<p>El día terminó volviendo juntos a disfrutar de la última sauna en Helsinki. Cenamos algo que nos sentó lo suficientemente bien para fundirnos en <code>besos</code> en nuestra <code>última noche.</code></p>
+<p><img src="https://lh3.googleusercontent.com/i2sF_NZexGwPCAc74WrlQDIqSgDR7t14eYiTtPQJuW6pJ9fpIF3wkPQhxpBBh_DNrYlSUEyl3TQBaOTmO-aehQnSyrvV5Zic2LpgWppbrmV7V5DP7aKkw_vRb0f_Hrkw7Jw7enPbbio30Klh7b6GeOJfvOUR0QbhLDZ_JBPcCZtBUkhVYwMwnicW4LDED4K55ybrla9Krrrou15_9Py5WX2rrigXJ8fi_0gujiIr1Omiv6eGTYWkkk_Lh3zr-0CugcBoKZyhXgkxwoMLG9EGyCtFzvlAnXVwS9yU_kfJh9qCig-oP02EtemfeEMrW8FF56AYFsZ0lVBghCeC6aYACoPlxHKGm99EjIa3DKpX4zfZgCip0RA5p7gw8nXYMyA4FbOPqRhDL8P5B_J8NnECneZi_mYSEWl_8nLK1n5xY8RZuz38NDzM364pDCRL6Qu-c3lz7UUkzgCZxYknlQT-fjkig9bNLSRCd5bvcm_076cA0JUyBBSQdW6vXaSW9Y42YHkarZB6VUuCZbdU4ZdlQYLbfEwpMF6FrmfvYUmtVf6W6VwRp2RawflzL_paBf3xKRiUysw26L5ThpD_hGwbNO1JWOR_u4CBy2YVhD1l073gDWY25Niryn5yzWTVRM7n2I14k2hQOBQh0TDLd0PSMLDsAj7h03XA71Bz66TZyz2SBiQR5Y3vZXGbkNbl60_V0y3DV6wBlKlhObDua06uMAuCm55-6kXpojz4xRaodBpFJZr8_Z_P0iF_IKj5__KWuQyfvNlEpKqfKQYMcZ5N6xSisj0wrKqvwzgNbzKNzMBGaXasa30jGMJWrA-dWplZHBibJYga_24JdHntVvKNVdtqpsfR5GSIY1MvtyvVe72Sq-qsZA7nESXg_6q8vkzLeYD_15jdlXHdaJhgxH8KAqXioUwrFz2V_Rr_Mw4zc7BKzbaLMcNP2TLRTMXp333yR1aEKKKH8qOPxGRToP7xUIYWQ1VtsIXJAdlGXtbWBAc44kzbGi0oCio=w668-h890-no?authuser=0" alt="Coran"></p>
+<hr>
+<h2 id="04032023">04.03.2023</h2>
+<p>Antes de que te fueras me empeñé en comer en <code>Abloc</code> y claro.. allí que fuimos.</p>
+<p>Nos <code>separamos</code> un momento, tu llevabas la maleta pesada y no nos salía retable comprar el billete en ese moemento. Quedaste esperando al bus con todas tus pertenencias y más tardé me curcé contigo. <code>Arrastrabas</code> la maleta hacía el metro y en ese momento se me hizo más real que nunca que te <code>marchabas</code>.</p>
+<p><img src="https://lh3.googleusercontent.com/GA7llU0c8TBOVDM5EUsz2Wfg1QHH_OjQHCbhptXEHFcYrSwGW2g2h-PTvQaLPNchnp-_uP_duiYYKWSjewkuTUk68ek0eIkjGkDWr-7iyJwPXC5wY0EU1gEKZhLaYMUTeqUNa6av-_lIMDDLvabqstY00Ar-kJqlBmxNrEX4R5O2UMSxNZ06QyBBfipQQJzpxHC2SxVuBDOWQNLY6OJuLJqNv-BovMQ_XK9zvmwHo3hkvouFBfBR30Ukj1ZWGXeVbFnlck6qR9S5rqwVaXLm1UtTXdqG4pKh7jk413x_j3AdCgZCRB9NcUSrXlcGTTHn0nvuVT86OhDmkIA6ithELwWkoTpxOIE4wpTQCpoFfLoTEia0HIT241Zj1NvG4BpMiMMc7Kt4cDAHzrV_gzh_zrXfxbl3E1fH4ksuK_Hm0FKnvRFzg_-7Gn129EBxOPi8bVVD9UuNUiYl80SpdOKwXW9LCQbt_MEGPMi9lBDai0vOI5XJc4b6dxqQJgX__bqO7moGYou-hDmiezs4rZ6S9IxE7FPxHS2zEMvg6mXcJfYPddjV7ZQsedjxjGx59YoYwbMYdBORQJY9kApmvd-t6ZJDDyiqxYWMTrYBhYVQ0sWY3hmeAZJBHp3F_XwVY8z7pQddFwzufPpNHpdaBEhQR7iQjJLJVCPrp18G4UyXoH_TVvTbmcM4cY304Ku_X1QqC5EZXnKQIF0pgNu16e-IgZ495-LbinUHyJSSqzvmWhMS26unjr9jV4LxRKo-SOnfB9qGf7eaplTAjlFf4B0DDsiub2FqsN-HDgKLlfpCN4yoFVGX-hC2UwVjoYiURujKJUxGsZIt6QmHWrhI4bIMqz8nLOAPM7rz_5YDV9Ef4ptRYItpZZVAanXGjMlE3T2lsRlMU9I0QNl1mWLepbC5dopktrRhGw61iWp6Ap-qaX2UDOvbHqB3Q4fNLx8cCm39Eg709VwdD5kBlxT4lprswZ_EJZ_r36jZX1v84aYISeScnprb-FV2OOE=w668-h890-no?authuser=0" alt="Marions se va"></p>
+<p>Llegamos a la cantina, vimos en la puerta a algunos de mis amigos, les despedimos y entramos a comer. Una vez entramos tuviste un momento a solas con <code>Samuel</code> que venía con el pelo despeinado y alguna mancha de <code>ketchup</code> en la cara. Te girabas buscándome, llegué por tu espalda, le saludamos, pasamos el momento incómodo desde el humor de la situción y finalmente buscamos un sitio para tener nuestra última comida. El <code>eslovaco</code> mientras tanto se iba en busca de lo que a él le daba el gusto por vivir, <em>aquellos pequeños momentos que nos rodean</em>.</p>
+<p>Te pediste una pizza, yo unos nachos un poco raros que estaban ricos pero no quedaban muchos. <code>Younnis</code> estaba cerca nuestro viendo la <code>F1</code>. Aquel <code>mountruo</code> nocturno que daba miedo que de un día a otro apareciese en la cocina del apartamento de <code>JMT 11 I </code>ahí reposaba finalmente.</p>
+<p>Comimos, me viste con cara de que me había quedado con hambre y me ofreciste un pedazo de tu pizza y marchamos al aereopuerto con algo de antelación.</p>
+<p>Llegamos al aereopuerto con las maletas, antes de despedirnos me empezó a sangrar la <code>nariz</code>. Nos apartamos a un lado, hablamos un poco de cosas sin más para no darle mucha importancia al hecho de que te ibas y finalmente te fuiste.</p>
+<p>Mis lagrimas me acompañaron hasta que me llamaste cuando ya estaba en <code>Rautatientori</code> bajando del <code>VR</code> y me decías que te ofrecían $400$ euros por quedarte una noche más. Parecía que podíamos alargar un poquito más nuestra historia de amor en <code>Helsinki</code>. La indecisión y el trascurso de la situación fueron en nuetra contra, así que te marchaste.</p>
+<p>Mis lagrimas no volvieron a brotar pues se habían quebrado con la falsa esperanza. A partir ed ahí me quise como olvidar de lo que habías significado para mí esos días.</p>
+<h3 id="de-vuelta-de-stockholm">De vuelta de Stockholm</h3>
+<p>Llegamos al aereopuerto y miestras tu mirabas el directo de <code>Plan EIR</code> yo llamaba al seguro para dejar todo a punto, cosa que parecía que nunca iba a ocurrir y que a día de hoy no ha ocurrido todavía.</p>
+
+</body>
+</html>
