@@ -54,7 +54,7 @@ Eso si la noche estaba clara. Tu venías con la sangre `mediterránea` corriendo
 
 Una vez que llegamos al bar nos asomamos a nuestra mesa para ver dónde estaba grabado el $22$ nos tomamos unas cervezas y disfrutamos de la noche juntos.
 
-![Old Irish](https://lh3.googleusercontent.com/_AsKY5ZS8aCZfoYAQzQaWU974VDElxCl7_GTQExUtXdDBMLg_DJeXSpzRDOy2eq5kc0zJkVR8DeuquFi-1dyb4bRI1f404IVta4SyM5rvsiCaX3shgeEOR25oWGyafb8YXhurgbrbTvykiTMkoKDo89oKJOj6jNmcmxU9mCLzysqV8u5bGw_GjqK9LiEDNKZjEuLk0NIjnYDeNURMYdvKmmAWA9-zGclPKrJaosaUkhs6pDBHQKbAceMWmUeCnF7FwTZjEqYIjUuQCFStQ0UJL-aDq6P-OEGzeZZ9XyUA5LroGoiziCDa58PIlCAztI87TMy-QhAIFz4MMgbWdzgNp98riFOgFqpovphyO-2L7KQhyET3ocwePrd6hm8dg8ZMW02H1o8RLu7RzpsnpuXKiD9TgwcSThtwaL1sEUiaWyM2TugATCkgRnp5FKkfJi4aAu9JJnhKu_wGj3540WFOKoQBF1gJUO2OEzEQSrtenCdQS_ZPujuz_e8lQxCxvlfuBxy2HbHsS3a1RIz_yjixgLOJi7HE3NIP_A4lndBver9PtMq8x5x69KzODBg5NDe3_M_zGmpJU2Bgj9GTAooFmrgJcnLCKcXlDKTuq_vPN2gCEsdosW6NUsHaw6oFfg0PdLj2_-jhPkUTwDIOYTjc8ECAXEAZRv_WCbINMr-XzSTUhsGjlj5RXw7ISOWhyx5jfChCkgW9ux5PzZWDwool7ttc1G_AANcPETvgFBFo5z5RhMkhKMeXPjGG9IpnxOQOWsy4V52nbCt_Yt96P8SkENWU4Gfv8NJoBfJf8nQAyZoQbqNe9OrxtektTrdizNctP5aqS3HjmeoaUW-MkTX0OxJW6DNx81L5iYsccQd16ZjNrnCr_mEZUJag80j33PuKB8lyru_mzx_1l7DWVnYwS8RCBTaGOsL7agajAGvOnRrhwhtyZSKXXU3ZYp7AXI9U6GwfBoIcau5oZwIjfso41ep6uJAeagMmC-qfk8-iPPp5uKP8mkX5w=w959-h720-no?authuser=0 "Guapa")
+![Old Irish](https://lh3.googleusercontent.com/_AsKY5ZS8aCZfoYAQzQaWU974VDElxCl7_GTQExUtXdDBMLg_DJeXSpzRDOy2eq5kc0zJkVR8DeuquFi-1dyb4bRI1f404IVta4SyM5rvsiCaX3shgeEOR25oWGyafb8YXhurgbrbTvykiTMkoKDo89oKJOj6jNmcmxU9mCLzysqV8u5bGw_GjqK9LiEDNKZjEuLk0NIjnYDeNURMYdvKmmAWA9-zGclPKrJaosaUkhs6pDBHQKbAceMWmUeCnF7FwTZjEqYIjUuQCFStQ0UJL-aDq6P-OEGzeZZ9XyUA5LroGoiziCDa58PIlCAztI87TMy-QhAIFz4MMgbWdzgNp98riFOgFqpovphyO-2L7KQhyET3ocwePrd6hm8dg8ZMW02H1o8RLu7RzpsnpuXKiD9TgwcSThtwaL1sEUiaWyM2TugATCkgRnp5FKkfJi4aAu9JJnhKu_wGj3540WFOKoQBF1gJUO2OEzEQSrtenCdQS_ZPujuz_e8lQxCxvlfuBxy2HbHsS3a1RIz_yjixgLOJi7HE3NIP_A4lndBver9PtMq8x5x69KzODBg5NDe3_M_zGmpJU2Bgj9GTAooFmrgJcnLCKcXlDKTuq_vPN2gCEsdosW6NUsHaw6oFfg0PdLj2_-jhPkUTwDIOYTjc8ECAXEAZRv_WCbINMr-XzSTUhsGjlj5RXw7ISOWhyx5jfChCkgW9ux5PzZWDwool7ttc1G_AANcPETvgFBFo5z5RhMkhKMeXPjGG9IpnxOQOWsy4V52nbCt_Yt96P8SkENWU4Gfv8NJoBfJf8nQAyZoQbqNe9OrxtektTrdizNctP5aqS3HjmeoaUW-MkTX0OxJW6DNx81L5iYsccQd16ZjNrnCr_mEZUJag80j33PuKB8lyru_mzx_1l7DWVnYwS8RCBTaGOsL7agajAGvOnRrhwhtyZSKXXU3ZYp7AXI9U6GwfBoIcau5oZwIjfso41ep6uJAeagMmC-qfk8-iPPp5uKP8mkX5w=w959-h720-no?authuser=0)
 
 ---
 
@@ -72,12 +72,12 @@ Entramos, saludamos a la gente y todo poco a poco perecías más fácil.
 
 Y tan fácil que a pesar de perder el primer partido contra `Aes` y `Alicia` les pudimos ganar en la final. 
 
-![BeerPong1](img\beer-pong-1.jpg "beer pong")
+![BeerPong1](img\beer-pong-1.jpg)
 
-![BeerPong1](img\beer-pong-2.jpg "beer pong")
+![BeerPong1](img\beer-pong-2.jpg)
 
 ### El tiro de la victoria
-![BeerPong](img\beer-pong.jpg "beer pong")
+![BeerPong](img\beer-pong.jpg)
 
 
 
@@ -86,7 +86,9 @@ Y tan fácil que a pesar de perder el primer partido contra `Aes` y `Alicia` les
 
 Que suerte que el día antes de que te marcharas pudiérmos ir al `Kiasma` y al `Museo Nacional`. Son dos exposiciones de Helsinki que disfruto un montón.
 
-Llegamos al `Museo Nacional` e intenté enseñarte la historia de *Santa Barbára* mientras apartábamos a una madre y su hijo del retablo. Mas o menos adivinaste la historia pero mi insistencia hacía de la situación algo  
+Llegamos al `Museo Nacional` e intenté enseñarte la historia de *Santa Barbára* mientras apartábamos a una madre y su hijo del retablo. Mas o menos adivinaste la historia pero mi insistencia hacía de la situación algo.
+
+---
 
 ## 04.03.2023
 
@@ -94,7 +96,7 @@ Antes de que te fueras me empeñé en comer en `Abloc` y claro.. allí que fuimo
 
 Nos separamos un momento, tu llevabas la maleta pesada y no nos salía retable comprar el billete en ese moemnto. Quedaste esperando al bus con todas tus pertenencias y más tardé me curcé contigo. Arrastrabas la maleta hacía el metro y en ese momento se me hizo más real que nunca que te marchabas. 
 
-![Marions](https://lh3.googleusercontent.com/GA7llU0c8TBOVDM5EUsz2Wfg1QHH_OjQHCbhptXEHFcYrSwGW2g2h-PTvQaLPNchnp-_uP_duiYYKWSjewkuTUk68ek0eIkjGkDWr-7iyJwPXC5wY0EU1gEKZhLaYMUTeqUNa6av-_lIMDDLvabqstY00Ar-kJqlBmxNrEX4R5O2UMSxNZ06QyBBfipQQJzpxHC2SxVuBDOWQNLY6OJuLJqNv-BovMQ_XK9zvmwHo3hkvouFBfBR30Ukj1ZWGXeVbFnlck6qR9S5rqwVaXLm1UtTXdqG4pKh7jk413x_j3AdCgZCRB9NcUSrXlcGTTHn0nvuVT86OhDmkIA6ithELwWkoTpxOIE4wpTQCpoFfLoTEia0HIT241Zj1NvG4BpMiMMc7Kt4cDAHzrV_gzh_zrXfxbl3E1fH4ksuK_Hm0FKnvRFzg_-7Gn129EBxOPi8bVVD9UuNUiYl80SpdOKwXW9LCQbt_MEGPMi9lBDai0vOI5XJc4b6dxqQJgX__bqO7moGYou-hDmiezs4rZ6S9IxE7FPxHS2zEMvg6mXcJfYPddjV7ZQsedjxjGx59YoYwbMYdBORQJY9kApmvd-t6ZJDDyiqxYWMTrYBhYVQ0sWY3hmeAZJBHp3F_XwVY8z7pQddFwzufPpNHpdaBEhQR7iQjJLJVCPrp18G4UyXoH_TVvTbmcM4cY304Ku_X1QqC5EZXnKQIF0pgNu16e-IgZ495-LbinUHyJSSqzvmWhMS26unjr9jV4LxRKo-SOnfB9qGf7eaplTAjlFf4B0DDsiub2FqsN-HDgKLlfpCN4yoFVGX-hC2UwVjoYiURujKJUxGsZIt6QmHWrhI4bIMqz8nLOAPM7rz_5YDV9Ef4ptRYItpZZVAanXGjMlE3T2lsRlMU9I0QNl1mWLepbC5dopktrRhGw61iWp6Ap-qaX2UDOvbHqB3Q4fNLx8cCm39Eg709VwdD5kBlxT4lprswZ_EJZ_r36jZX1v84aYISeScnprb-FV2OOE=w668-h890-no?authuser=0 "Title")
+![Marions](https://lh3.googleusercontent.com/GA7llU0c8TBOVDM5EUsz2Wfg1QHH_OjQHCbhptXEHFcYrSwGW2g2h-PTvQaLPNchnp-_uP_duiYYKWSjewkuTUk68ek0eIkjGkDWr-7iyJwPXC5wY0EU1gEKZhLaYMUTeqUNa6av-_lIMDDLvabqstY00Ar-kJqlBmxNrEX4R5O2UMSxNZ06QyBBfipQQJzpxHC2SxVuBDOWQNLY6OJuLJqNv-BovMQ_XK9zvmwHo3hkvouFBfBR30Ukj1ZWGXeVbFnlck6qR9S5rqwVaXLm1UtTXdqG4pKh7jk413x_j3AdCgZCRB9NcUSrXlcGTTHn0nvuVT86OhDmkIA6ithELwWkoTpxOIE4wpTQCpoFfLoTEia0HIT241Zj1NvG4BpMiMMc7Kt4cDAHzrV_gzh_zrXfxbl3E1fH4ksuK_Hm0FKnvRFzg_-7Gn129EBxOPi8bVVD9UuNUiYl80SpdOKwXW9LCQbt_MEGPMi9lBDai0vOI5XJc4b6dxqQJgX__bqO7moGYou-hDmiezs4rZ6S9IxE7FPxHS2zEMvg6mXcJfYPddjV7ZQsedjxjGx59YoYwbMYdBORQJY9kApmvd-t6ZJDDyiqxYWMTrYBhYVQ0sWY3hmeAZJBHp3F_XwVY8z7pQddFwzufPpNHpdaBEhQR7iQjJLJVCPrp18G4UyXoH_TVvTbmcM4cY304Ku_X1QqC5EZXnKQIF0pgNu16e-IgZ495-LbinUHyJSSqzvmWhMS26unjr9jV4LxRKo-SOnfB9qGf7eaplTAjlFf4B0DDsiub2FqsN-HDgKLlfpCN4yoFVGX-hC2UwVjoYiURujKJUxGsZIt6QmHWrhI4bIMqz8nLOAPM7rz_5YDV9Ef4ptRYItpZZVAanXGjMlE3T2lsRlMU9I0QNl1mWLepbC5dopktrRhGw61iWp6Ap-qaX2UDOvbHqB3Q4fNLx8cCm39Eg709VwdD5kBlxT4lprswZ_EJZ_r36jZX1v84aYISeScnprb-FV2OOE=w668-h890-no?authuser=0)
 
 Llegamos a la cantina vimos en la puerta a algunos de mis amigos, les despedimos y entramos a comer. Una vez entramos tuviste un momento a solas con `Samuel` que venía con el pelo despeinado y alguna mancha de `ketchup` en la cara. Te girabas buscándome, llegué por tu espalda, le saludamos, pasamos el momento incómodo desde el humor de la situción y finalmente buscamos un sitio para tener nuestra última comida. El `eslovaco` mientras tanto se iba en busca de lo que a él le daba el gusto por vivir, *aquellos pequeños momentos que nos rodean*. 
 
