@@ -3,7 +3,7 @@
 
 ![Marions de Camino](img/de-camino.jpeg)
 
-Marions, pasaste aquí conmigo unos $25$ días. Han sido preciosos. Desde tu partida he ido tristemente olvidando lo que significó para mi comprartir contigo esta aventura. Las preocupaciones las dudas me han ido alejando de apreciar aquello que es lo que quiero, a ti!
+Marions, pasaste aquí conmigo unos $$25$$ días. Han sido preciosos. Desde tu partida he ido tristemente olvidando lo que significó para mi comprartir contigo esta aventura. Las preocupaciones las dudas me han ido alejando de apreciar aquello que es lo que quiero, a ti!
 
 Por eso me he puesto a escribir estas líneas, para recordar, tener guardado y hacerte llegar los momentos bonitos, preciosos, entrañables y únicos que hemos vivido juntos.
 
@@ -13,7 +13,7 @@ Por eso me he puesto a escribir estas líneas, para recordar, tener guardado y h
 
 Llegaste un *14.02.2023*. Día de *San Valentin*. Nunca nos ha importado especialmente este día, aunque de alguna forma a mi me ha hecho siempre pararme a pensar y a preciar lo que significas para mí.
 
- Te esperé en el **Aereopuerto de Vaanta** con alguna hora de antelación. Tu vuelo se había restrasado y al final llegabas a las $18:00$ aprximadamente. Me dio tiempo a poder ir a comprar unas flores, un reno finlandés al `Clash Olson` y la compra de los días siguientes en el `Lidl`. Como no, había unos `noodles` esperándote esa noche. De `salmón`! Eso sí, estaba ahumado y lleno de sal así que tampoco supo especialemnte bien. Nos gustó más lo novedad que su sabor. Antes de cenar hicimos una `sauna` y pasamos la noche juntos curando un poco las heridas que se hacían algo más grandes los primeros días de tu llegada. 
+ Te esperé en el **Aereopuerto de Vaanta** con alguna hora de antelación. Tu vuelo se había restrasado y al final llegabas a las $$18:00$$ aprximadamente. Me dio tiempo a poder ir a comprar unas flores, un reno finlandés al `Clash Olson` y la compra de los días siguientes en el `Lidl`. Como no, había unos `noodles` esperándote esa noche. De `salmón`! Eso sí, estaba ahumado y lleno de sal así que tampoco supo especialemnte bien. Nos gustó más lo novedad que su sabor. Antes de cenar hicimos una `sauna` y pasamos la noche juntos curando un poco las heridas que se hacían algo más grandes los primeros días de tu llegada. 
 
 ---
 
@@ -49,7 +49,7 @@ Llegué mas tarde, discutimos un poco más, nos sinceramos y nos acabamos riendo
 
 No recuerdo mucho este día, simplemte lo pasamos juntos comimos en alguna cantina del campus, disfrutamos el sabor del café y me hiciste compañía mientras preparaba mi presentanción del `TFM`. 
 
-Quizás lo pasamos en las `burbujas` de la biblioteca mientras te mirabas una serie ..  o quizás me había encabezonado con la ventana de la biblioteca y te estarías viendo la película de `Los renclones torcidos de Dios` en algún sofá verde y yo me azercaba cada $20$ minutos para ver como iba la trama...
+Quizás lo pasamos en las `burbujas` de la biblioteca mientras te mirabas una serie ..  o quizás me había encabezonado con la ventana de la biblioteca y te estarías viendo la película de `Los renclones torcidos de Dios` en algún sofá verde y yo me azercaba cada $$20$$ minutos para ver como iba la trama...
 
 Por la tarde fuimos a disfrutar de nuestras entradas de `cine` y `palomitas`.
 
@@ -58,7 +58,7 @@ Por la tarde fuimos a disfrutar de nuestras entradas de `cine` y `palomitas`.
 
 Después de disfrutar la peli la noche estaba clara. Tu venías con la sangre `mediterránea` corriendo todavía por tus venas y querías tomarte una `cerve`. Fue la primera y la última que tomamos en el `Old Irish`. Tu sangre mediterranea se fue congelando al mismo ritmo que la mía.
 
-Una vez que llegamos al bar nos asomamos a nuestra mesa para ver dónde estaba grabado el $22$ nos tomamos unas cervezas y disfrutamos de la noche juntos.
+Una vez que llegamos al bar nos asomamos a nuestra mesa para ver dónde estaba grabado el $$22$$ nos tomamos unas cervezas y disfrutamos de la noche juntos.
 
 ![Old Irish](img/old-irish.jpg)
 
@@ -66,7 +66,7 @@ Una vez que llegamos al bar nos asomamos a nuestra mesa para ver dónde estaba g
 
 ## 17.02.2023
 
-El día $17$ tocaba explicarle a los `erasmus` **quién** era *Mariona Riera*. Teníamos el `evento` del `beer-pong` por la noche. Te pareció curioso que se jugase con agua, después de que pasaran los días y ver el precio de las cervezas te fue pareciendo poco a poco algo más normal.
+El día $$17$$ tocaba explicarle a los `erasmus` **quién** era *Mariona Riera*. Teníamos el `evento` del `beer-pong` por la noche. Te pareció curioso que se jugase con agua, después de que pasaran los días y ver el precio de las cervezas te fue pareciendo poco a poco algo más normal.
 
 Llegamos a la puerta y después de que vieras el panorama te `asustaste` y decidiste volver. Veníamos un poco tocados después de lo de `Helvar` y claro a saber dónde te metía Aris esta vez. 
 
@@ -85,7 +85,7 @@ Y tan fácil que a pesar de perder el primer partido contra `Aes` y `Alicia` les
 ### El tiro de la victoria
 ![BeerPong3](img/beer-pong.jpg)
 
-De camino a casa por alguna razón que hoy no recuerdo uno de los $2$ `trofeos` terminó en la `basura`. El otro hoy está en mi apartamento junto a una de las `botellas` que nos regalaron los de Helvar.
+De camino a casa por alguna razón que hoy no recuerdo uno de los $$2$$ `trofeos` terminó en la `basura`. El otro hoy está en mi apartamento junto a una de las `botellas` que nos regalaron los de Helvar.
 
 ![Copa Botella](img/copa-botella.jpeg)
 
@@ -171,11 +171,11 @@ Dejamos atrás `Viking-Line` sorteando a los perros de seguirdad que se te acerc
 
 Yo tenía la aplicación `SL` descargada pero también llevaba conmigo lo inquietud por suscibirme a un servicio nada rentable de trasnporte público. Optamos por coger un bus que estaba a algo lejos de la terminal. Desenfundé la aplicación y justo nos dió tiempo a entrar y llegar a `Slussen`la estación de metro más cercana con conexión directa con `Rådmansgatan`.
 
-Llegamos pronto a lo que sería nuestro hugar durante las $2$ próximas noches. Quizás pueda parecer osado llamarle al `Rex-Petit` hogar, pero a veces es lo que uno sentía cuando al bajar por las escaleras de piedra pisaba finalmente la moqueta roja del pasillo. 
+Llegamos pronto a lo que sería nuestro hugar durante las $$2$$ próximas noches. Quizás pueda parecer osado llamarle al `Rex-Petit` hogar, pero a veces es lo que uno sentía cuando al bajar por las escaleras de piedra pisaba finalmente la moqueta roja del pasillo. 
 
 Como era de esperar no pudimos todavía ir a nuestro cuarto, nos tomamos un `café`, dejamos las maletas y nos fuimos a pasear por `Glam Stan`.
 
-A las $12:00$ después de haber disfrutado algo las calles `nuevas` y `viejas` del barrio antiguo nos asomamos al palacio real. Pudimos ver el cambio de guardia, no sorprendió lo justo. y decidimos ir a comer al `Kitchen-Mama`.
+A las $$12:00$$ después de haber disfrutado algo las calles `nuevas` y `viejas` del barrio antiguo nos asomamos al palacio real. Pudimos ver el cambio de guardia, no sorprendió lo justo. y decidimos ir a comer al `Kitchen-Mama`.
 
 Antes paramos por una iglesia con símbolos `masónicos` y por el `mercado` de la ciudad, dónde te sroprendiste más que por el mercado por la suerte que teníamos de haberlo visto ya que según tus planes era complicado asomarse a ese rincón sueco.
 
@@ -231,9 +231,9 @@ Subimos a la zona de espera y yo tuve que llamar a mi `seguro`. A día de hoy pa
 
 Mientras yo llamaba tu veías sentada rodeada de maletas el directo de `PlanEir` al que yo tardé poco en engancharme. Aquella chica `gaditana` que estudiaba en un `cortijo`, se daba el placer de acariciar a su `perra` ocasionalmente, seguía los pasos de su hermana mayor, recopilaba preguntas secretas y asistía los domingos a misa te hizo a ti desempolvar memorias y a mí un poco también.
 
-El tiempo pasaba enfrente de la puerta $16$ del *Aereopuerto de Arlanda* y no nos dimos cuenta. Nos suele pasar en los aereopuertos. Una vez que llegamos le perdemos a importancia a que tenemos que `volver a casa`, ya nos pasó en Italia. Estamos juntos, el tiempo se para, `todo da igual` Marions.  
+El tiempo pasaba enfrente de la puerta $$16$$ del *Aereopuerto de Arlanda* y no nos dimos cuenta. Nos suele pasar en los aereopuertos. Una vez que llegamos le perdemos a importancia a que tenemos que `volver a casa`, ya nos pasó en Italia. Estamos juntos, el tiempo se para, `todo da igual` Marions.  
 
-Finalmente con $5$ minutos de antelación nos metimos en nuestra nave aérea y volvimos desde la `ciudad` de Estocolmo al `pueblo` de Helsinki. 
+Finalmente con $$5$$ minutos de antelación nos metimos en nuestra nave aérea y volvimos desde la `ciudad` de Estocolmo al `pueblo` de Helsinki. 
 
 Una vez llegamos a `Helsinki` yo lo sentía todo más como casa y tu algo también.
 
@@ -241,11 +241,11 @@ Compramos pollo aliñado con especias.
 
 ## 02.03.2023
 
-El día $2$  faltabn $2$ días para. A pesar de eso me supiste querer muy bien y me acompñaste en mi aventura con `Phalo`. Gracias por tu apoyo Marions. Pasamos la tarde en `Marintalo` mientras tu te veías el comienzo de la peli de `Malcom y Marie`. 
+El día $$2$$  faltabn $$2$$ días para. A pesar de eso me supiste querer muy bien y me acompñaste en mi aventura con `Phalo`. Gracias por tu apoyo Marions. Pasamos la tarde en `Marintalo` mientras tu te veías el comienzo de la peli de `Malcom y Marie`. 
 
 Por la noche nos recogimos depués de saludar a `Pablo` y `Ariana`, que se acercaron a dónde estábamos para avanzar un poco con el vídeo. A día de hoy ya está grabado y nuestro abrazo del campeonato de `beer-pong` aparece al final. 
 
-Me quedé un rato con ellos, pero se hacía tarde y nos acercamos al `Alepa` y `K-market`a comprar yo la cena y tu $2$ cervezas. Fue una pena que no pudiéramos comprar las cerves pues se nos había hecho bastante tarde. Tu no entedías el por qué y te empeñaste en probar en el otro super apesar de que la `ley finlandesa` funciona por igual y sobre todo aquí que todo se cumple muy a rajatabla.
+Me quedé un rato con ellos, pero se hacía tarde y nos acercamos al `Alepa` y `K-market`a comprar yo la cena y tu $$2$$ cervezas. Fue una pena que no pudiéramos comprar las cerves pues se nos había hecho bastante tarde. Tu no entedías el por qué y te empeñaste en probar en el otro super apesar de que la `ley finlandesa` funciona por igual y sobre todo aquí que todo se cumple muy a rajatabla.
 
 Por la noche disfrutamos juntos de la peli con dos pizzas, gracias en pensar en compartirla conmigo. Una de las pizzas era de `atún`, me acanta como siempre estás atenta a la `pizza que más me gusta` para `reservarme` el último pedazo, piensas mucho en mi Marions... fue un día bastante bonito, dónde lo que más sentí a lo largo de él fue `tu apoyo` y `tu amorjpg)`.  
 
@@ -308,7 +308,7 @@ Comimos, me viste con cara de que me había quedado con hambre y me ofreciste un
 
 Llegamos a *Vantaa*, antes de despedirnos me empezó a sangrar la `nariz`. Nos apartamos a un lado, hablamos un poco de cosas sin más para no darle mucha importancia al hecho de que te ibas y finalmente `te fuiste`.
 
-Mis lagrimas me acompañaron hasta que me llamaste cuando ya estaba en `Rautatientori` bajando del `VR` y me decías que te ofrecían $400$ euros y todo pagado por quedarte una noche más. Parecía que podíamos alargar un poquito más nuestra historia de amor en `Helsinki`. La indecisión y el tiempo fueron en nuetra contra, así que te marchaste. 
+Mis lagrimas me acompañaron hasta que me llamaste cuando ya estaba en `Rautatientori` bajando del `VR` y me decías que te ofrecían $$400$$ euros y todo pagado por quedarte una noche más. Parecía que podíamos alargar un poquito más nuestra historia de amor en `Helsinki`. La indecisión y el tiempo fueron en nuetra contra, así que te marchaste. 
 
 Mis lagrimas no volvieron a `brotar` pues se habían secado y quebrado con la falsa esperanza de que volvieras. A partir de ahí me quise como olvidar de lo que habías significado para mí esos días.
 
@@ -327,7 +327,7 @@ Mis lagrimas no volvieron a `brotar` pues se habían secado y quebrado con la fa
 
 ![Marions de Camino](img/de-camino.jpeg)
 
-Marions, pasaste aquí conmigo unos $25$ días. Han sido preciosos. Desde tu partida he ido tristemente olvidando lo que significó para mi comprartir contigo esta aventura. Las preocupaciones las dudas me han ido alejando de apreciar aquello que es lo que quiero, a ti!
+Marions, pasaste aquí conmigo unos $$25$$ días. Han sido preciosos. Desde tu partida he ido tristemente olvidando lo que significó para mi comprartir contigo esta aventura. Las preocupaciones las dudas me han ido alejando de apreciar aquello que es lo que quiero, a ti!
 
 Por eso me he puesto a escribir estas líneas, para recordar, tener guardado y hacerte llegar los momentos bonitos, preciosos, entrañables y únicos que hemos vivido juntos.
 
@@ -337,7 +337,7 @@ Por eso me he puesto a escribir estas líneas, para recordar, tener guardado y h
 
 Llegaste un *14.02.2023*. Día de *San Valentin*. Nunca nos ha importado especialmente este día, aunque de alguna forma a mi me ha hecho siempre pararme a pensar y a preciar lo que significas para mí.
 
- Te esperé en el **Aereopuerto de Vaanta** con alguna hora de antelación. Tu vuelo se había restrasado y al final llegabas a las $18:00$ aprximadamente. Me dio tiempo a poder ir a comprar unas flores, un reno finlandés al `Clash Olson` y la compra de los días siguientes en el `Lidl`. Como no, había unos `noodles` esperándote esa noche. De `salmón`! Eso sí, estaba ahumado y lleno de sal así que tampoco supo especialemnte bien. Nos gustó más lo novedad que su sabor. Antes de cenar hicimos una `sauna` y pasamos la noche juntos curando un poco las heridas que se hacían algo más grandes los primeros días de tu llegada. 
+ Te esperé en el **Aereopuerto de Vaanta** con alguna hora de antelación. Tu vuelo se había restrasado y al final llegabas a las $$18:00$$ aprximadamente. Me dio tiempo a poder ir a comprar unas flores, un reno finlandés al `Clash Olson` y la compra de los días siguientes en el `Lidl`. Como no, había unos `noodles` esperándote esa noche. De `salmón`! Eso sí, estaba ahumado y lleno de sal así que tampoco supo especialemnte bien. Nos gustó más lo novedad que su sabor. Antes de cenar hicimos una `sauna` y pasamos la noche juntos curando un poco las heridas que se hacían algo más grandes los primeros días de tu llegada. 
 
 ---
 
@@ -373,7 +373,7 @@ Llegué mas tarde, discutimos un poco más, nos sinceramos y nos acabamos riendo
 
 No recuerdo mucho este día, simplemte lo pasamos juntos comimos en alguna cantina del campus, disfrutamos el sabor del café y me hiciste compañía mientras preparaba mi presentanción del `TFM`. 
 
-Quizás lo pasamos en las `burbujas` de la biblioteca mientras te mirabas una serie ..  o quizás me había encabezonado con la ventana de la biblioteca y te estarías viendo la película de `Los renclones torcidos de Dios` en algún sofá verde y yo me azercaba cada $20$ minutos para ver como iba la trama...
+Quizás lo pasamos en las `burbujas` de la biblioteca mientras te mirabas una serie ..  o quizás me había encabezonado con la ventana de la biblioteca y te estarías viendo la película de `Los renclones torcidos de Dios` en algún sofá verde y yo me azercaba cada $$20$$ minutos para ver como iba la trama...
 
 Por la tarde fuimos a disfrutar de nuestras entradas de `cine` y `palomitas`.
 
@@ -382,7 +382,7 @@ Por la tarde fuimos a disfrutar de nuestras entradas de `cine` y `palomitas`.
 
 Después de disfrutar la peli la noche estaba clara. Tu venías con la sangre `mediterránea` corriendo todavía por tus venas y querías tomarte una `cerve`. Fue la primera y la última que tomamos en el `Old Irish`. Tu sangre mediterranea se fue congelando al mismo ritmo que la mía.
 
-Una vez que llegamos al bar nos asomamos a nuestra mesa para ver dónde estaba grabado el $22$ nos tomamos unas cervezas y disfrutamos de la noche juntos.
+Una vez que llegamos al bar nos asomamos a nuestra mesa para ver dónde estaba grabado el $$22$$ nos tomamos unas cervezas y disfrutamos de la noche juntos.
 
 ![Old Irish](img/old-irish.jpg)
 
@@ -390,7 +390,7 @@ Una vez que llegamos al bar nos asomamos a nuestra mesa para ver dónde estaba g
 
 ## 17.02.2023
 
-El día $17$ tocaba explicarle a los `erasmus` **quién** era *Mariona Riera*. Teníamos el `evento` del `beer-pong` por la noche. Te pareció curioso que se jugase con agua, después de que pasaran los días y ver el precio de las cervezas te fue pareciendo poco a poco algo más normal.
+El día $$17$$ tocaba explicarle a los `erasmus` **quién** era *Mariona Riera*. Teníamos el `evento` del `beer-pong` por la noche. Te pareció curioso que se jugase con agua, después de que pasaran los días y ver el precio de las cervezas te fue pareciendo poco a poco algo más normal.
 
 Llegamos a la puerta y después de que vieras el panorama te `asustaste` y decidiste volver. Veníamos un poco tocados después de lo de `Helvar` y claro a saber dónde te metía Aris esta vez. 
 
@@ -409,7 +409,7 @@ Y tan fácil que a pesar de perder el primer partido contra `Aes` y `Alicia` les
 ### El tiro de la victoria
 ![BeerPong3](img/beer-pong.jpg)
 
-De camino a casa por alguna razón que hoy no recuerdo uno de los $2$ `trofeos` terminó en la `basura`. El otro hoy está en mi apartamento junto a una de las `botellas` que nos regalaron los de Helvar.
+De camino a casa por alguna razón que hoy no recuerdo uno de los $$2$$ `trofeos` terminó en la `basura`. El otro hoy está en mi apartamento junto a una de las `botellas` que nos regalaron los de Helvar.
 
 ![Copa Botella](img/copa-botella.jpeg)
 
@@ -495,11 +495,11 @@ Dejamos atrás `Viking-Line` sorteando a los perros de seguirdad que se te acerc
 
 Yo tenía la aplicación `SL` descargada pero también llevaba conmigo lo inquietud por suscibirme a un servicio nada rentable de trasnporte público. Optamos por coger un bus que estaba a algo lejos de la terminal. Desenfundé la aplicación y justo nos dió tiempo a entrar y llegar a `Slussen`la estación de metro más cercana con conexión directa con `Rådmansgatan`.
 
-Llegamos pronto a lo que sería nuestro hugar durante las $2$ próximas noches. Quizás pueda parecer osado llamarle al `Rex-Petit` hogar, pero a veces es lo que uno sentía cuando al bajar por las escaleras de piedra pisaba finalmente la moqueta roja del pasillo. 
+Llegamos pronto a lo que sería nuestro hugar durante las $$2$$ próximas noches. Quizás pueda parecer osado llamarle al `Rex-Petit` hogar, pero a veces es lo que uno sentía cuando al bajar por las escaleras de piedra pisaba finalmente la moqueta roja del pasillo. 
 
 Como era de esperar no pudimos todavía ir a nuestro cuarto, nos tomamos un `café`, dejamos las maletas y nos fuimos a pasear por `Glam Stan`.
 
-A las $12:00$ después de haber disfrutado algo las calles `nuevas` y `viejas` del barrio antiguo nos asomamos al palacio real. Pudimos ver el cambio de guardia, no sorprendió lo justo. y decidimos ir a comer al `Kitchen-Mama`.
+A las $$12:00$$ después de haber disfrutado algo las calles `nuevas` y `viejas` del barrio antiguo nos asomamos al palacio real. Pudimos ver el cambio de guardia, no sorprendió lo justo. y decidimos ir a comer al `Kitchen-Mama`.
 
 Antes paramos por una iglesia con símbolos `masónicos` y por el `mercado` de la ciudad, dónde te sroprendiste más que por el mercado por la suerte que teníamos de haberlo visto ya que según tus planes era complicado asomarse a ese rincón sueco.
 
@@ -555,9 +555,9 @@ Subimos a la zona de espera y yo tuve que llamar a mi `seguro`. A día de hoy pa
 
 Mientras yo llamaba tu veías sentada rodeada de maletas el directo de `PlanEir` al que yo tardé poco en engancharme. Aquella chica `gaditana` que estudiaba en un `cortijo`, se daba el placer de acariciar a su `perra` ocasionalmente, seguía los pasos de su hermana mayor, recopilaba preguntas secretas y asistía los domingos a misa te hizo a ti desempolvar memorias y a mí un poco también.
 
-El tiempo pasaba enfrente de la puerta $16$ del *Aereopuerto de Arlanda* y no nos dimos cuenta. Nos suele pasar en los aereopuertos. Una vez que llegamos le perdemos a importancia a que tenemos que `volver a casa`, ya nos pasó en Italia. Estamos juntos, el tiempo se para, `todo da igual` Marions.  
+El tiempo pasaba enfrente de la puerta $$16$$ del *Aereopuerto de Arlanda* y no nos dimos cuenta. Nos suele pasar en los aereopuertos. Una vez que llegamos le perdemos a importancia a que tenemos que `volver a casa`, ya nos pasó en Italia. Estamos juntos, el tiempo se para, `todo da igual` Marions.  
 
-Finalmente con $5$ minutos de antelación nos metimos en nuestra nave aérea y volvimos desde la `ciudad` de Estocolmo al `pueblo` de Helsinki. 
+Finalmente con $$5$$ minutos de antelación nos metimos en nuestra nave aérea y volvimos desde la `ciudad` de Estocolmo al `pueblo` de Helsinki. 
 
 Una vez llegamos a `Helsinki` yo lo sentía todo más como casa y tu algo también.
 
@@ -565,11 +565,11 @@ Compramos pollo aliñado con especias.
 
 ## 02.03.2023
 
-El día $2$  faltabn $2$ días para. A pesar de eso me supiste querer muy bien y me acompñaste en mi aventura con `Phalo`. Gracias por tu apoyo Marions. Pasamos la tarde en `Marintalo` mientras tu te veías el comienzo de la peli de `Malcom y Marie`. 
+El día $$2$$  faltabn $$2$$ días para. A pesar de eso me supiste querer muy bien y me acompñaste en mi aventura con `Phalo`. Gracias por tu apoyo Marions. Pasamos la tarde en `Marintalo` mientras tu te veías el comienzo de la peli de `Malcom y Marie`. 
 
 Por la noche nos recogimos depués de saludar a `Pablo` y `Ariana`, que se acercaron a dónde estábamos para avanzar un poco con el vídeo. A día de hoy ya está grabado y nuestro abrazo del campeonato de `beer-pong` aparece al final. 
 
-Me quedé un rato con ellos, pero se hacía tarde y nos acercamos al `Alepa` y `K-market`a comprar yo la cena y tu $2$ cervezas. Fue una pena que no pudiéramos comprar las cerves pues se nos había hecho bastante tarde. Tu no entedías el por qué y te empeñaste en probar en el otro super apesar de que la `ley finlandesa` funciona por igual y sobre todo aquí que todo se cumple muy a rajatabla.
+Me quedé un rato con ellos, pero se hacía tarde y nos acercamos al `Alepa` y `K-market`a comprar yo la cena y tu $$2$$ cervezas. Fue una pena que no pudiéramos comprar las cerves pues se nos había hecho bastante tarde. Tu no entedías el por qué y te empeñaste en probar en el otro super apesar de que la `ley finlandesa` funciona por igual y sobre todo aquí que todo se cumple muy a rajatabla.
 
 Por la noche disfrutamos juntos de la peli con dos pizzas, gracias en pensar en compartirla conmigo. Una de las pizzas era de `atún`, me acanta como siempre estás atenta a la `pizza que más me gusta` para `reservarme` el último pedazo, piensas mucho en mi Marions... fue un día bastante bonito, dónde lo que más sentí a lo largo de él fue `tu apoyo` y `tu amorjpg)`.  
 
@@ -632,7 +632,7 @@ Comimos, me viste con cara de que me había quedado con hambre y me ofreciste un
 
 Llegamos a *Vantaa*, antes de despedirnos me empezó a sangrar la `nariz`. Nos apartamos a un lado, hablamos un poco de cosas sin más para no darle mucha importancia al hecho de que te ibas y finalmente `te fuiste`.
 
-Mis lagrimas me acompañaron hasta que me llamaste cuando ya estaba en `Rautatientori` bajando del `VR` y me decías que te ofrecían $400$ euros y todo pagado por quedarte una noche más. Parecía que podíamos alargar un poquito más nuestra historia de amor en `Helsinki`. La indecisión y el tiempo fueron en nuetra contra, así que te marchaste. 
+Mis lagrimas me acompañaron hasta que me llamaste cuando ya estaba en `Rautatientori` bajando del `VR` y me decías que te ofrecían $$400$$ euros y todo pagado por quedarte una noche más. Parecía que podíamos alargar un poquito más nuestra historia de amor en `Helsinki`. La indecisión y el tiempo fueron en nuetra contra, así que te marchaste. 
 
 Mis lagrimas no volvieron a `brotar` pues se habían secado y quebrado con la falsa esperanza de que volvieras. A partir de ahí me quise como olvidar de lo que habías significado para mí esos días.
 
