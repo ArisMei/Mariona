@@ -55,8 +55,6 @@ Por la tarde fuimos a disfrutar de nuestras entradas de `cine` y `palomitas`.
 
 ![Titanic Entradas](img/titanic.jpeg)
 
-Nunca sabremos Marions cómo sabrá aquella `pizza` que nunca pedimos. Eso sí nuetro dolor de tripa empezo a cocinarse en estas escapadas al `Finniko` y el exceso de chuches y la ingesta de paloitas algo crudas. 
-
 
 Después de disfrutar la peli la noche estaba clara. Tu venías con la sangre `mediterránea` corriendo todavía por tus venas y querías tomarte una `cerve`. Fue la primera y la última que tomamos en el `Old Irish`. Tu sangre mediterranea se fue congelando al mismo ritmo que la mía.
 
@@ -126,6 +124,8 @@ De camino a casa por alguna razón que hoy no recuerdo uno de los $2$ `trofeos` 
 
 Algún día entenderé tu capacidad de `catar palomitas` y saber cuáles son las buenas y cuales las malas y darte las gracias por ese precioso don, de momento solo me scada de mis `casillas`.
 
+Nunca sabremos Marions cómo sabrá aquella `pizza` que nunca pedimos. Eso sí nuetro dolor de tripa empezo a cocinarse en estas escapadas al `Finniko` y el exceso de chuches y la ingesta de paloitas algo crudas. 
+
 ## 25.02.2023
 
 ### Sauna 10 E
@@ -137,35 +137,28 @@ Nos levantamos y el objetivo era hacer los bocatas. Yo tenía trabajo que hacer 
 
 De vez en cuando desde la cocina me hablabas hasta que el `silencio` se mezclo con el olor a `quemado`.
 
-Salimos, cogimos el `52` y luego el tram hasta el puerto. Yo iba algo `mosqueado` y tu me soportabas con cariño. Nuestro viaje a Estocolmo comenzaba!
+Salimos, cogimos el `52` y luego el tram hasta el puerto. Yo iba algo `mosqueado` y tu me soportabas con cariño. Nuestro viaje a `Estocolmo` comenzaba!
 
-De camino al puerto nos confiamos demasiado y por un momento casi nos quedamos subidos en el `tram`, se estaba cómodo y disfrutábamos de la mutua compañía. Suerte que vimos bajar a la gente y la seguimos hasta el puerto. Una vez llegamos vimos como `Gabriella` allí descansaba.
+De camino al puerto nos confiamos demasiado y por un momento casi nos quedamos subidos en el `tram`, se estaba cómodo y disfrutábamos de la mutua compañía. Suerte que vimos bajar a la gente y la seguimos hasta el `puerto`. Una vez llegamos vimos como `Gabriella` allí descansaba.
 
-Entramos en el puerto y conseguimos hacer el cheking, yo me quejé un par de veces durante el camino de lo mal que estaba explicado todo, mientras tu te reías de `el rata`. 
+Entramos en el puerto y conseguimos hacer el cheking, yo me quejé un par de veces durante el camino de lo mal que estaba explicado todo, mientras tu te reías de `el rata`. Fuimos al baño y entramos en la zona de descanso al lado de la puerta de embarque.
 
 ![Entradas-Gabriella](img/tickets-viking.jpeg)
 
-Tardamos algo en encontrar nuestra cabina, daba algo de miedo pues nos imponía tener que bajar tantas escaleras. Depués de vacilar un par de veces y bloquearle el paso a un `cojo` cogimos el camino que más seguridad nos daba. A too esto, nuestro compañero de pasillo era un `DiCaprio negro` que vestía con mucho `flow`. 
+Una vez dentro del barco tardamos algo en encontrar nuestra cabina, daba algo de miedo pues nos imponía tener que bajar tantas escaleras. La verdad que después de haber visto hace unos días la peli de `Titanic` nada parecía una buena idea. Depués de vacilar un par de veces y bloquearle el paso a un `cojo` cogimos el camino que más seguridad nos daba. A todo esto, nuestro compañero de pasillo era un `DiCaprio negro` que vestía con mucho `flow`. 
 
 Depués de asentarnos y disfrutar de ´nuestro pequeño rincón´ nos aventuramos a descubir los rincones de `Gabriela`.
 
-Recorrimos la `eslora` por la `cubierta` de `popa` a `proa`, esta vez no buscaba dar de comer a los peces del retiro pero aún así me resbalé contra el suelo.
+Recorrimos la `eslora` por la `cubierta` de `popa` a `proa`, esta vez no buscaba dar de comer a los `peces del retiro` pero aún así me resbalé y cahí contra el suelo. La sombra de la tarde se escondía por `babor` y la nieve que quedaba se congelaba formando una pequeña pista de `patinaje`.
 
 Mi cabezonería te hizo pasar miedo. Me tranquilicé y entramos a comprar unas `patatas` para saciar el hambre y mi ansiedad.
 
-Recorrimos el barco buscando un `lobby` imaginario hasta que encontramos un sitio algo recogido alejado de los borrachos. Allí compartimos una `cerve` mientras discutíamos el mensaje que le tenías que dejar  a `Leti`, suerte que tu `padre` te llamó y te dejó algo de claridad mientras unoas animadores mostraban en las pantallas esquinas de objetos a adivinar.
+Recorrimos el barco buscando un `lobby` imaginario hasta que encontramos un sitio algo recogido alejado de los borrachos. Allí compartimos una `cerve` mientras discutíamos el mensaje que le tenías que dejar a `Leti`, suerte que tu `padre` te llamó y te dejó algo de claridad mientras unos animadores mostraban en las pantallas esquinas de objetos a adivinar.
 
- Más tarde enamos nuestros bocatas que `quemaste` la noche de antes pero que hiciste con tanto cariño que me sentó bien.
+ Más tarde cenamos nuestros bocatas que `quemaste` por despiste la noche de antes pero que hiciste con tanto cariño que nos sentó bien.
 
 No tardamos en bajar al `camarote` desearnos las buenas noches y después de pensar en avisar a `recepción` nos quedamos dormidos pensando en quizás otras preocupaciones mientras, eso si, un `artefacto` soplaba un aire aparentemente vennigno a los pies de nuestras camas.
-
-
-
-
-
-### Llegada a Stockholm
-
-Llegamos 
+ 
 ## 28.02.2023
 
 Por la mañana nos terminamos nuestras preciadas rosquillas que a día de hoy miro con cariño en el `K-Market`.
@@ -303,7 +296,7 @@ Mis lagrimas no volvieron a `brotar` pues se habían secado y quebrado con la fa
 
 ---
 
-# Fianl
+# Final
 
 
 
